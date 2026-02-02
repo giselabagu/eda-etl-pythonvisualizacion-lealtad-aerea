@@ -1,9 +1,3 @@
-# Módulo 3 – Evaluación Final
-**Bootcamp Data Analytics & IA**
-**Alumna:** Gisela Barroso
-
----
-
 ## Análisis Exploratorio, Limpieza y Visualización de Datos de un Programa de Lealtad Aéreo
 ### 🧩 Descripción del Proyecto
 
